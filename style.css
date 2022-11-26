@@ -1,3 +1,4 @@
+
 p {
     font-family: "Neonderthaw", cursive;
     font-size: 18px;
@@ -43,16 +44,20 @@ p {
   height: 100%;
   border-radius: 10px;
   text-decoration: none;
-  background: #ba89f1;
+  background: #d0b6ed;
   font-size: 16px;
   border-color: #ffffff;
-  color: rgb(108, 45, 175);
-  box-shadow: 0 0 40px 40px #ffffff inset, 0 0 0 0 #a770d7;
+  color: rgb(179, 123, 207);
+  box-shadow: 0 0 40px 40px #ffffff inset, 0 0 0 0 #c786dc;
   -webkit-transition: all 150ms ease-in-out;
   transition: all 150ms ease-in-out;
 }
 .button:hover {
-  box-shadow: 0 0 10px 0 #8b4bab inset, 0 0 10px 4px #3d076d;
+  box-shadow: 0 0 10px 0 rgb(208, 155, 235) inset, 0 0 10px 4px #dfcbf0;
   color: #ffffff;
 }
-  
+
+img {
+  width: 100px;
+  height: 100px;
+}
