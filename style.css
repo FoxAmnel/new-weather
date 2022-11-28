@@ -1,34 +1,25 @@
 
-p {
-    font-family: "Neonderthaw", cursive;
-    font-size: 18px;
-  }
-  #temperature {
+#temperature {
     font-family: "Neonderthaw", cursive;
     font-size: 35px;
   }
-  #C {
+#C {
     font-family: "Neonderthaw", cursive;
     font-size: 25px;
   }
-  h1 {
+h1 {
     font-family: "Neonderthaw", cursive;
     font-size: 35px;
   }
-  h6 {
-    font-family: "Neonderthaw", cursive;
+h6 {
     font-size: 20px;
   }
   h2 {
     font-family: "Neonderthaw", cursive;
     font-size: 30px;
   }
-  p:hover {
+li {
     font-family: "Neonderthaw", cursive;
-    font-size: 18px;
-    text-shadow: 2px 2px 3px #777778, 0 0 1em #30cfd0, 0 0 3em #c689c6;
-  }
-  li {
     height: 70px;
     text-align: center;
     font-size: large;
@@ -60,4 +51,10 @@ p {
 img {
   width: 100px;
   height: 100px;
+ }
+
+ .weather-forecast {
+  font-family: "Neonderthaw", cursive;
+  margin-top: 20px;
+  text-align: center;
 }
